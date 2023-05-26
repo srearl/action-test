@@ -1,2 +1,2 @@
 # action-test
-test GH action
+test GH actions
